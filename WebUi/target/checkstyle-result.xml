@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/home/stas/PETClinic/WebUi/HELP.md">
+</file>
+<file name="/home/stas/PETClinic/WebUi/.gitignore">
+</file>
+<file name="/home/stas/PETClinic/WebUi/Dockerfile">
+</file>
+<file name="/home/stas/PETClinic/WebUi/.mvn/wrapper/maven-wrapper.jar">
+</file>
+<file name="/home/stas/PETClinic/WebUi/.mvn/wrapper/maven-wrapper.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/mvnw.cmd">
+</file>
+<file name="/home/stas/PETClinic/WebUi/mvnw">
+</file>
+<file name="/home/stas/PETClinic/WebUi/pom.xml">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/checkstyle/nohttp-checkstyle-suppressions.xml">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/checkstyle/nohttp-checkstyle.xml">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/messages/messages.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/messages/messages_es.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/messages/messages_en.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/messages/messages_de.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/postgres/petclinic_db_setup_postgres.txt">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/postgres/schema.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/postgres/data.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/mysql/petclinic_db_setup_mysql.txt">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/mysql/schema.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/mysql/user.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/mysql/data.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/h2/schema.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/h2/data.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/hsqldb/schema.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/db/hsqldb/data.sql">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/error.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/fragments/selectField.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/fragments/inputField.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/fragments/layout.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/vets/createVet.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/vets/vetList.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/pets/createOrUpdatePetForm.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/pets/createOrUpdateVisitForm.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/owners/ownersList.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/owners/createOrUpdateOwnerForm.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/owners/findOwners.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/owners/ownerDetails.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/templates/welcome.html">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/application.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/banner.txt">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/application-postgres.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/css/petclinic.css">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/spring-pivotal-logo.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/platform-bg.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/pets.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/spring-logo-dataflow.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/favicon.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/varela_round-webfont.eot">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/montserrat-webfont.eot">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/varela_round-webfont.woff">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/varela_round-webfont.ttf">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/montserrat-webfont.woff">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/varela_round-webfont.svg">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/montserrat-webfont.ttf">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/static/resources/fonts/montserrat-webfont.svg">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/resources/application-mysql.properties">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/WebUiApplication.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/model/BaseEntity.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/model/Person.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/model/NamedEntity.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/PetTypeFormatter.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/entity/Owner.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/entity/Pet.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/entity/Visit.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/PetType.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/PetValidator.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/repository/OwnerRepository.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/controllers/VisitController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/controllers/PetController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/owner/controllers/OwnerController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/vet/Specialty.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/vet/Vet.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/vet/VetRepository.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/vet/VetController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/vet/Vets.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/system/CacheConfiguration.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/system/CrashController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/system/WelcomeController.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/main/java/webUi/PetClinicRuntimeHints.java">
+</file>
+<file name="/home/stas/PETClinic/WebUi/src/test/java/webUi/WebUiApplicationTests.java">
+</file>
+</checkstyle>
